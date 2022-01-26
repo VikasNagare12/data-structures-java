@@ -1,3 +1,5 @@
+package Array.ArrayRotation;
+
 public class ArrayRightRotationtUsingReverse {
 
     public static void main(String ar[]) {
